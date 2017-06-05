@@ -1,7 +1,9 @@
 <!Doctype html>
-<html>
+<html lang="en">
 
 <head>
+  <meta charset="utf-8"
+  <meta name="tutorial webpage written in code"  
 <title>First Page written directly in code</title>
 </head>
 
